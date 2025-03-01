@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "name": "Weather App",
+            "description": "This is a simple weather application that fetches real-time weather data using the OpenWeather API. It allows users to enter a city name and retrieve weather information, including temperature, humidity, and wind speed. The app dynamically updates the UI with relevant weather icons based on the current conditions. It is built using HTML, CSS, and JavaScript, implementing basic API integration, event handling, and error management for invalid city inputs. While straightforward, this project demonstrates core front-end development skills and API usage.",
+            "link": "https://mapisys.github.io/weatherApp/"
+        },
+        {
+            "name": "Personal Blog",
+            "description": "This is a mid 2000s style blog inspired by geocities. It features blinkies, animated gifts. 2008 emo kid vibes.",
+            "link": "https://lemontea.neocities.org/"
+        },
+        {
+            "name": "Wired Chatbot",
+            "description": "This is a chatbot inspired by Serial Experiments Lain that responds with cryptic messages.",
+            "link": "https://mapisys.github.io/wiredChatbot/"
+        },
+        {
+            "name": "Neon Terminal",
+            "description": "This is a command-line-inspired interactive website that mimics the aesthetics of a retro terminal while providing engaging and useful commands. Users can execute commands to check the time and date, hear programming jokes, receive inspirational quotes, flip a coin, view system uptime, fetch the latest tech news, and more. Built with HTML, CSS, and JavaScript, this project showcases interactive web development with dynamic text-based user input handling.",
+            "link": "https://mapisys.github.io/NEON-Terminal/"
+        }
+    ]
+}
